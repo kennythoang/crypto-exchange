@@ -1,4 +1,4 @@
-# CIS196 Final Project: Cryptocurrency Portfolio Collection
+# Cryptocurrency Portfolio Collection
 Completed for CIS 196 final project, Fall 2018. Will need
 to input your own Coinbase API key and install necessary
 gems before running 'rails s' to launch the app.
